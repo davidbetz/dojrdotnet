@@ -2,7 +2,7 @@
 using System.Runtime.Serialization;
 using System.Collections.Generic;
 //+
-namespace NetFX.Dojo.Rpc.Description
+namespace Jampad.Dojo.Rpc.Description
 {
     [DataContract]
     public class DojoServiceDescription

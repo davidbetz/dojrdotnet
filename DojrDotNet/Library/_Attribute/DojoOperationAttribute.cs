@@ -1,6 +1,6 @@
 ﻿using System;
 //+
-namespace NetFX.Dojo.Rpc
+namespace Jampad.Dojo.Rpc
 {
     [AttributeUsage(AttributeTargets.Method, Inherited = false, AllowMultiple = false)]
     public sealed class DojoOperationAttribute : Attribute

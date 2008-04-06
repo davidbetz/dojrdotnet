@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 //+
-namespace NetFX.Dojo.Rpc
+namespace Jampad.Dojo.Rpc
 {
     [Serializable]
     public class DojoRpcException : Exception

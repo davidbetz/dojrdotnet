@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
-using MethodCatalog = System.Collections.Generic.Dictionary<System.String, NetFX.Dojo.Rpc.Method>;
+using MethodCatalog = System.Collections.Generic.Dictionary<System.String, Jampad.Dojo.Rpc.Method>;
 //+
-namespace NetFX.Dojo.Rpc
+namespace Jampad.Dojo.Rpc
 {
     internal static class TypeScanner
     {

@@ -2,9 +2,9 @@
 using System.IO;
 using System.Runtime.Serialization.Json;
 using System.Web;
-using NetFX.Dojo.Rpc.Description;
+using Jampad.Dojo.Rpc.Description;
 //+
-namespace NetFX.Dojo.Rpc
+namespace Jampad.Dojo.Rpc
 {
     public abstract class DojoRpcServiceBase : IHttpHandler
     {

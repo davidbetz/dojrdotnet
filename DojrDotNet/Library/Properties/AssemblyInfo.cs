@@ -1,16 +1,11 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
-
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-[assembly: AssemblyTitle("NetFX.Dojo")]
+[assembly: AssemblyTitle("Jampad.Dojo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("N/A")]
-[assembly: AssemblyProduct("NetFX.Dojo")]
-[assembly: AssemblyCopyright("Copyright © N/A 2008")]
+[assembly: AssemblyCompany("Jampad Technology, Inc.")]
+[assembly: AssemblyProduct("Jampad.Dojo")]
+[assembly: AssemblyCopyright("Copyright © Jampad Technology, Inc. 2008")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]

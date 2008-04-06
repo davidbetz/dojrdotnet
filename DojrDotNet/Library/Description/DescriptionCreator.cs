@@ -1,7 +1,7 @@
 ﻿using System;
-using MethodCatalog = System.Collections.Generic.Dictionary<System.String, NetFX.Dojo.Rpc.Method>;
+using MethodCatalog = System.Collections.Generic.Dictionary<System.String, Jampad.Dojo.Rpc.Method>;
 //+
-namespace NetFX.Dojo.Rpc.Description
+namespace Jampad.Dojo.Rpc.Description
 {
     internal static class DescriptionCreator
     {

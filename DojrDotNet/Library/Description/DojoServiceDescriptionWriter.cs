@@ -4,7 +4,7 @@ using System.Web;
 using System.Runtime.Serialization.Json;
 using System.Reflection;
 //+
-namespace NetFX.Dojo.Rpc.Description
+namespace Jampad.Dojo.Rpc.Description
 {
     internal static class DojoServiceDescriptionWriter
     {
