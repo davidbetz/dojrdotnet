@@ -1,7 +1,7 @@
 ﻿using System;
 using Jampad.Dojo.Rpc;
 //+
-namespace NetFX.Web
+namespace Jampad.Web
 {
     public class CalculatorService : DojoRpcServiceBase
     {
