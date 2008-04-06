@@ -1,5 +1,5 @@
 ﻿using System;
-using NetFX.Dojo.Rpc;
+using Jampad.Dojo.Rpc;
 //+
 namespace NetFX.Web
 {

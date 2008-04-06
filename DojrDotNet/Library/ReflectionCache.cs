@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using NetFX.Dojo.Rpc.Description;
-using MethodCatalog = System.Collections.Generic.Dictionary<System.String, NetFX.Dojo.Rpc.Method>;
+using Jampad.Dojo.Rpc.Description;
+using MethodCatalog = System.Collections.Generic.Dictionary<System.String, Jampad.Dojo.Rpc.Method>;
 //+
-namespace NetFX.Dojo.Rpc
+namespace Jampad.Dojo.Rpc
 {
     internal static class ReflectionCache
     {

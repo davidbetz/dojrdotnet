@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 //+
-namespace NetFX.Dojo.Rpc
+namespace Jampad.Dojo.Rpc
 {
     [DataContract]
     public class DojoMessage

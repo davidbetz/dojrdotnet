@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 //+
-namespace NetFX.Dojo.Rpc
+namespace Jampad.Dojo.Rpc
 {
     internal class Method
     {
