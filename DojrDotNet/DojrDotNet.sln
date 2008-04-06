@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFX.Dojo", "Library\NetFX.Dojo.csproj", "{AB8B5125-B041-4D49-BB71-6626433EB3B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetFX.Dojo.Rpc", "Library\NetFX.Dojo.Rpc.csproj", "{AB8B5125-B041-4D49-BB71-6626433EB3B2}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website", "Website", "{FB80299D-7D6A-4447-921A-74AEFD402994}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -34,14 +34,15 @@ Global
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://tfs07.codeplex.com/
 		SccLocalPath0 = .
-		SccProjectUniqueName1 = Library\\NetFX.Dojo.csproj
-		SccProjectName1 = Library
-		SccLocalPath1 = Library
-		SccWebProject2 = true
-		SccProjectUniqueName2 = Website
-		SccLocalPath2 = .
-		SccProjectFilePathRelativizedFromConnection2 = Website\\
-		SccProjectEnlistmentChoice2 = 2
+		SccWebProject1 = true
+		SccProjectUniqueName1 = Website
+		SccProjectName1 = Website
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = Website\\
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = Library\\NetFX.Dojo.Rpc.csproj
+		SccProjectName2 = Library
+		SccLocalPath2 = Library
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
