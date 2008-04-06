@@ -18,7 +18,7 @@ namespace Jampad.Dojo.Rpc
         }
 
         //- @IsReusable -//
-        public bool IsReusable
+        public Boolean IsReusable
         {
             get { return false; }
         }
