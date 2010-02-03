@@ -5,10 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jampad.Dojo.Rpc", "Library\
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website", "Website", "{FB80299D-7D6A-4447-921A-74AEFD402994}"
 	ProjectSection(WebsiteProperties) = preProject
-		SccProjectName = "SAK"
-		SccAuxPath = "SAK"
-		SccLocalPath = "SAK"
-		SccProvider = "SAK"
 		TargetFramework = "3.5"
 		ProjectReferences = "{AB8B5125-B041-4D49-BB71-6626433EB3B2}|DojoRpc.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/Website"
@@ -29,21 +25,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website", "Website", "{FB80
 	EndProjectSection
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://tfs07.codeplex.com/
-		SccLocalPath0 = .
-		SccWebProject1 = true
-		SccProjectUniqueName1 = Website
-		SccProjectName1 = Website
-		SccLocalPath1 = .
-		SccProjectFilePathRelativizedFromConnection1 = Website\\
-		SccProjectEnlistmentChoice1 = 2
-		SccProjectUniqueName2 = Library\\Jampad.Dojo.Rpc.csproj
-		SccProjectName2 = Library
-		SccLocalPath2 = Library
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
 		Debug|Any CPU = Debug|Any CPU
