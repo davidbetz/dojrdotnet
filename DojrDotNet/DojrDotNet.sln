@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jampad.Dojo.Rpc", "Library\Jampad.Dojo.Rpc.csproj", "{AB8B5125-B041-4D49-BB71-6626433EB3B2}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website", "Website", "{FB80299D-7D6A-4447-921A-74AEFD402994}"
